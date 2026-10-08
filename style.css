@@ -30,6 +30,8 @@
   --heat-lo: #1f2523; --heat-hi: #3f9e86; color-scheme: dark;
 }
 
+[hidden] { display: none !important; }
+*, *::before, *::after { box-sizing: border-box; }
 body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 15px; line-height: 1.55; margin: 0; }
 .page { max-width: 1080px; margin-inline: auto; padding-inline: 20px; padding-block: 36px 48px; display: grid; gap: 28px; }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
