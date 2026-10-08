@@ -1,0 +1,1262 @@
+[
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Behavior policy",
+  "control_scaled": 0.8586
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Supported random",
+  "control_scaled": 0.6282
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Minimum action",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Maximum action",
+  "control_scaled": 0.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Behavior cloning",
+  "control_scaled": 0.8624
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Decision Transformer",
+  "control_scaled": 0.8591
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Discrete BCQ",
+  "control_scaled": 0.9896
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Discrete CQL",
+  "control_scaled": 0.8688
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Discrete IQL",
+  "control_scaled": 0.8664
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Count-blend adapter",
+  "control_scaled": 0.8564
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Persistence + planner",
+  "control_scaled": 0.5925
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "HGB residual + planner",
+  "control_scaled": 0.5993
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Deterministic GRU-D + planner",
+  "control_scaled": 0.7491
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Causal Transformer + planner",
+  "control_scaled": 0.5595
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Categorical RSSM + planner",
+  "control_scaled": 0.7009
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Single Gaussian + planner",
+  "control_scaled": 0.618
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Gaussian ensemble + planner",
+  "control_scaled": 0.5874
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Behavior policy",
+  "control_scaled": 0.281
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Supported random",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Minimum action",
+  "control_scaled": 0.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Maximum action",
+  "control_scaled": 0.6081
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Behavior cloning",
+  "control_scaled": 0.3126
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Decision Transformer",
+  "control_scaled": 0.2443
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Discrete BCQ",
+  "control_scaled": 0.0081
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Discrete CQL",
+  "control_scaled": 0.4813
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Discrete IQL",
+  "control_scaled": 0.3896
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Count-blend adapter",
+  "control_scaled": 0.4653
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Persistence + planner",
+  "control_scaled": 1.4888
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "HGB residual + planner",
+  "control_scaled": 1.5849
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Deterministic GRU-D + planner",
+  "control_scaled": 0.7349
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Causal Transformer + planner",
+  "control_scaled": 0.1863
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Categorical RSSM + planner",
+  "control_scaled": 0.7662
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Single Gaussian + planner",
+  "control_scaled": 0.4868
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Gaussian ensemble + planner",
+  "control_scaled": 0.2438
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Behavior policy",
+  "control_scaled": 0.6776
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Supported random",
+  "control_scaled": 0.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Minimum action",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Maximum action",
+  "control_scaled": 0.2402
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Behavior cloning",
+  "control_scaled": 0.6768
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Decision Transformer",
+  "control_scaled": 0.6559
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Discrete BCQ",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Discrete CQL",
+  "control_scaled": 0.7021
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Discrete IQL",
+  "control_scaled": 0.9157
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Count-blend adapter",
+  "control_scaled": 0.6855
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Persistence + planner",
+  "control_scaled": -0.1269
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "HGB residual + planner",
+  "control_scaled": -0.101
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Deterministic GRU-D + planner",
+  "control_scaled": 0.2051
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Causal Transformer + planner",
+  "control_scaled": 0.3816
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Categorical RSSM + planner",
+  "control_scaled": -0.109
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Single Gaussian + planner",
+  "control_scaled": 0.1795
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Gaussian ensemble + planner",
+  "control_scaled": 0.1587
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Behavior policy",
+  "control_scaled": 0.7666
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Supported random",
+  "control_scaled": 0.8734
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Minimum action",
+  "control_scaled": 0.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Maximum action",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Behavior cloning",
+  "control_scaled": 0.7581
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Decision Transformer",
+  "control_scaled": 0.6436
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Discrete BCQ",
+  "control_scaled": 0.2701
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Discrete CQL",
+  "control_scaled": 0.7803
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Discrete IQL",
+  "control_scaled": 0.7085
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Count-blend adapter",
+  "control_scaled": 0.8132
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Persistence + planner",
+  "control_scaled": 0.7813
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "HGB residual + planner",
+  "control_scaled": 1.0177
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Deterministic GRU-D + planner",
+  "control_scaled": 0.8572
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Causal Transformer + planner",
+  "control_scaled": 0.6818
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Categorical RSSM + planner",
+  "control_scaled": 0.6678
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Single Gaussian + planner",
+  "control_scaled": 0.9394
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Gaussian ensemble + planner",
+  "control_scaled": 1.0662
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Behavior policy",
+  "control_scaled": 0.5957
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Supported random",
+  "control_scaled": 0.5216
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Minimum action",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Maximum action",
+  "control_scaled": 0.0
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Behavior cloning",
+  "control_scaled": 0.5936
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Decision Transformer",
+  "control_scaled": 0.6849
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Discrete BCQ",
+  "control_scaled": 0.9051
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Discrete CQL",
+  "control_scaled": 0.5716
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Discrete IQL",
+  "control_scaled": 0.5984
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Count-blend adapter",
+  "control_scaled": 0.5249
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Persistence + planner",
+  "control_scaled": 0.7677
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "HGB residual + planner",
+  "control_scaled": 0.5865
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Deterministic GRU-D + planner",
+  "control_scaled": 0.5566
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Causal Transformer + planner",
+  "control_scaled": 0.5576
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Categorical RSSM + planner",
+  "control_scaled": 0.6369
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Single Gaussian + planner",
+  "control_scaled": 0.5065
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Gaussian ensemble + planner",
+  "control_scaled": 0.3207
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "XQL",
+  "control_scaled": 0.8691
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Dreamer V1",
+  "control_scaled": 0.6601
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Dreamer V2",
+  "control_scaled": 0.6396
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Sepsis",
+  "method": "Dreamer V3",
+  "control_scaled": 0.6701
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "XQL",
+  "control_scaled": 0.3001
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Dreamer V1",
+  "control_scaled": 1.0049
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Dreamer V2",
+  "control_scaled": 1.013
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Respiratory",
+  "method": "Dreamer V3",
+  "control_scaled": 1.0438
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "XQL",
+  "control_scaled": 0.672
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Dreamer V1",
+  "control_scaled": 0.0456
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Dreamer V2",
+  "control_scaled": 0.0514
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "Shock",
+  "method": "Dreamer V3",
+  "control_scaled": 0.0676
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "XQL",
+  "control_scaled": 0.6903
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Dreamer V1",
+  "control_scaled": 0.9592
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Dreamer V2",
+  "control_scaled": 0.8687
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "AKI",
+  "method": "Dreamer V3",
+  "control_scaled": 0.9624
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "XQL",
+  "control_scaled": 0.5673
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Dreamer V1",
+  "control_scaled": 0.625
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Dreamer V2",
+  "control_scaled": 0.4494
+ },
+ {
+  "family": "EHR-fitted",
+  "unit": "HF",
+  "method": "Dreamer V3",
+  "control_scaled": 0.5692
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Behavior cloning",
+  "control_scaled": 0.9453
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Behavior policy",
+  "control_scaled": 0.9831
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Categorical RSSM + planner",
+  "control_scaled": 0.9678
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Causal Transformer + planner",
+  "control_scaled": 1.0706
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Count-blend adapter",
+  "control_scaled": 0.5991
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Decision Transformer",
+  "control_scaled": 0.9294
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Deterministic GRU-D + planner",
+  "control_scaled": 1.0858
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Discrete BCQ",
+  "control_scaled": 0.9389
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Discrete CQL",
+  "control_scaled": 0.7182
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Discrete IQL",
+  "control_scaled": 0.9179
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Dreamer V1",
+  "control_scaled": 0.4625
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Dreamer V2",
+  "control_scaled": 0.5001
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Dreamer V3",
+  "control_scaled": 0.3654
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Gaussian ensemble + planner",
+  "control_scaled": 1.0096
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "HGB residual + planner",
+  "control_scaled": 1.0402
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Maximum action",
+  "control_scaled": 0.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Minimum action",
+  "control_scaled": 0.9896
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Persistence + planner",
+  "control_scaled": 1.0013
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Single Gaussian + planner",
+  "control_scaled": 1.0403
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "Supported random",
+  "control_scaled": 0.4444
+ },
+ {
+  "family": "Controlled",
+  "unit": "AKI",
+  "method": "XQL",
+  "control_scaled": 0.9648
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Behavior cloning",
+  "control_scaled": 0.4451
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Behavior policy",
+  "control_scaled": 0.6057
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Categorical RSSM + planner",
+  "control_scaled": 1.0006
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Causal Transformer + planner",
+  "control_scaled": 1.0015
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Count-blend adapter",
+  "control_scaled": 0.4068
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Decision Transformer",
+  "control_scaled": 0.4032
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Deterministic GRU-D + planner",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Discrete BCQ",
+  "control_scaled": 0.5355
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Discrete CQL",
+  "control_scaled": 0.4238
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Discrete IQL",
+  "control_scaled": 0.5032
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Dreamer V1",
+  "control_scaled": 0.3273
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Dreamer V2",
+  "control_scaled": 0.3866
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Dreamer V3",
+  "control_scaled": 0.2597
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Gaussian ensemble + planner",
+  "control_scaled": 1.0081
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "HGB residual + planner",
+  "control_scaled": 0.964
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Maximum action",
+  "control_scaled": 0.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Minimum action",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Persistence + planner",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Single Gaussian + planner",
+  "control_scaled": 1.0029
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "Supported random",
+  "control_scaled": 0.2705
+ },
+ {
+  "family": "Controlled",
+  "unit": "HF",
+  "method": "XQL",
+  "control_scaled": 0.5539
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Behavior cloning",
+  "control_scaled": 0.3907
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Behavior policy",
+  "control_scaled": 0.4221
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Categorical RSSM + planner",
+  "control_scaled": 1.1165
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Causal Transformer + planner",
+  "control_scaled": 1.1139
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Count-blend adapter",
+  "control_scaled": 0.5471
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Decision Transformer",
+  "control_scaled": 0.3809
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Deterministic GRU-D + planner",
+  "control_scaled": 1.1191
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Discrete BCQ",
+  "control_scaled": 0.4871
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Discrete CQL",
+  "control_scaled": 0.3762
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Discrete IQL",
+  "control_scaled": 0.3951
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Dreamer V1",
+  "control_scaled": 0.6351
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Dreamer V2",
+  "control_scaled": 0.6233
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Dreamer V3",
+  "control_scaled": 0.6658
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Gaussian ensemble + planner",
+  "control_scaled": 1.1071
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "HGB residual + planner",
+  "control_scaled": 1.0884
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Maximum action",
+  "control_scaled": 0.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Minimum action",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Persistence + planner",
+  "control_scaled": 1.1166
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Single Gaussian + planner",
+  "control_scaled": 1.1104
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "Supported random",
+  "control_scaled": 0.6044
+ },
+ {
+  "family": "Controlled",
+  "unit": "Respiratory",
+  "method": "XQL",
+  "control_scaled": 0.4145
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Behavior cloning",
+  "control_scaled": 0.9174
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Behavior policy",
+  "control_scaled": 0.9591
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Categorical RSSM + planner",
+  "control_scaled": 1.1269
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Causal Transformer + planner",
+  "control_scaled": 1.1687
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Count-blend adapter",
+  "control_scaled": 0.9026
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Decision Transformer",
+  "control_scaled": 0.923
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Deterministic GRU-D + planner",
+  "control_scaled": 1.1855
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Discrete BCQ",
+  "control_scaled": 0.9991
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Discrete CQL",
+  "control_scaled": 0.9213
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Discrete IQL",
+  "control_scaled": 0.9249
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Dreamer V1",
+  "control_scaled": 0.8848
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Dreamer V2",
+  "control_scaled": 0.884
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Dreamer V3",
+  "control_scaled": 0.8771
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Gaussian ensemble + planner",
+  "control_scaled": 1.1634
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "HGB residual + planner",
+  "control_scaled": 1.1778
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Maximum action",
+  "control_scaled": 0.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Minimum action",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Persistence + planner",
+  "control_scaled": 1.179
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Single Gaussian + planner",
+  "control_scaled": 1.1663
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "Supported random",
+  "control_scaled": 0.8824
+ },
+ {
+  "family": "Controlled",
+  "unit": "Sepsis",
+  "method": "XQL",
+  "control_scaled": 0.9442
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Behavior cloning",
+  "control_scaled": 0.8277
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Behavior policy",
+  "control_scaled": 0.8635
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Categorical RSSM + planner",
+  "control_scaled": 1.1173
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Causal Transformer + planner",
+  "control_scaled": 1.0845
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Count-blend adapter",
+  "control_scaled": 0.7865
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Decision Transformer",
+  "control_scaled": 0.8076
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Deterministic GRU-D + planner",
+  "control_scaled": 1.0983
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Discrete BCQ",
+  "control_scaled": 0.9995
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Discrete CQL",
+  "control_scaled": 0.7855
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Discrete IQL",
+  "control_scaled": 0.8322
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Dreamer V1",
+  "control_scaled": 0.6805
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Dreamer V2",
+  "control_scaled": 0.6828
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Dreamer V3",
+  "control_scaled": 0.6654
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Gaussian ensemble + planner",
+  "control_scaled": 1.0883
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "HGB residual + planner",
+  "control_scaled": 1.0917
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Maximum action",
+  "control_scaled": 0.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Minimum action",
+  "control_scaled": 1.0
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Persistence + planner",
+  "control_scaled": 1.1263
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Single Gaussian + planner",
+  "control_scaled": 1.0894
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "Supported random",
+  "control_scaled": 0.6741
+ },
+ {
+  "family": "Controlled",
+  "unit": "Shock",
+  "method": "XQL",
+  "control_scaled": 0.8601
+ }
+]

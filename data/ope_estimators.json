@@ -1,0 +1,110 @@
+[
+ {
+  "family": "EHR-fitted",
+  "estimator": "IS",
+  "nmae": 10580.0,
+  "coverage90": 0.5193,
+  "spearman": 0.0502,
+  "pairwise_order": 0.4961,
+  "nmae_scale": "control range"
+ },
+ {
+  "family": "EHR-fitted",
+  "estimator": "WIS",
+  "nmae": 7.756,
+  "coverage90": 0.6083,
+  "spearman": 0.0823,
+  "pairwise_order": 0.5099,
+  "nmae_scale": "control range"
+ },
+ {
+  "family": "EHR-fitted",
+  "estimator": "CWPDIS",
+  "nmae": 8.51,
+  "coverage90": 0.5405,
+  "spearman": 0.1155,
+  "pairwise_order": 0.5303,
+  "nmae_scale": "control range"
+ },
+ {
+  "family": "EHR-fitted",
+  "estimator": "DR",
+  "nmae": 538.0,
+  "coverage90": 0.6182,
+  "spearman": 0.1438,
+  "pairwise_order": 0.5475,
+  "nmae_scale": "control range"
+ },
+ {
+  "family": "EHR-fitted",
+  "estimator": "WDR",
+  "nmae": 7.459,
+  "coverage90": 0.5528,
+  "spearman": 0.086,
+  "pairwise_order": 0.5308,
+  "nmae_scale": "control range"
+ },
+ {
+  "family": "EHR-fitted",
+  "estimator": "FQE",
+  "nmae": 6.038,
+  "coverage90": 0.1624,
+  "spearman": 0.0973,
+  "pairwise_order": 0.5363,
+  "nmae_scale": "control range"
+ },
+ {
+  "family": "Controlled",
+  "estimator": "IS",
+  "nmae": 1677000000.0,
+  "coverage90": 0.6853,
+  "spearman": 0.0611,
+  "pairwise_order": 0.5094,
+  "nmae_scale": "generator range"
+ },
+ {
+  "family": "Controlled",
+  "estimator": "WIS",
+  "nmae": 0.0852,
+  "coverage90": 0.8286,
+  "spearman": 0.1181,
+  "pairwise_order": 0.529,
+  "nmae_scale": "generator range"
+ },
+ {
+  "family": "Controlled",
+  "estimator": "CWPDIS",
+  "nmae": 0.1429,
+  "coverage90": 0.7782,
+  "spearman": 0.0048,
+  "pairwise_order": 0.5002,
+  "nmae_scale": "generator range"
+ },
+ {
+  "family": "Controlled",
+  "estimator": "DR",
+  "nmae": 37170000.0,
+  "coverage90": 0.7528,
+  "spearman": 0.0548,
+  "pairwise_order": 0.5196,
+  "nmae_scale": "generator range"
+ },
+ {
+  "family": "Controlled",
+  "estimator": "WDR",
+  "nmae": 0.06431,
+  "coverage90": 0.7447,
+  "spearman": 0.1889,
+  "pairwise_order": 0.5737,
+  "nmae_scale": "generator range"
+ },
+ {
+  "family": "Controlled",
+  "estimator": "FQE",
+  "nmae": 0.05505,
+  "coverage90": 0.1132,
+  "spearman": 0.3857,
+  "pairwise_order": 0.6564,
+  "nmae_scale": "generator range"
+ }
+]

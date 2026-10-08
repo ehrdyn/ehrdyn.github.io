@@ -1,0 +1,10 @@
+{
+ "benchmark": "EHRDyn",
+ "version": "2.2.0",
+ "results_source": "KDD 2027 Datasets and Benchmarks submission, camera-ready revision (aggregate results)",
+ "fitted_best_single_control": "Behavior policy",
+ "controlled_best_single_control": "Minimum action",
+ "fitted_interval": "Monte Carlo-only 95% interval over the five fixed tasks",
+ "controlled_interval": "profile-stratified environment bootstrap 95% interval (20,000 draws)",
+ "generated": "2026-10-08"
+}
